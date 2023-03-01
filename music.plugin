@@ -1,0 +1,11 @@
+[Core]
+Name = music
+Module = music
+
+[Documentation]
+Author = blindelectron
+Version = 1.0
+Website = https://blind-electron.ml
+
+[Configuration]
+# this plugin has no configuration
